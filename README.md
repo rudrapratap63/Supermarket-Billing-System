@@ -11,10 +11,6 @@ The system includes a point of sale system also it manages Sellers, Admins and s
 * A Database is maintained for all Sellers, Categories and Products
 
 
-## Author
-**Sanchai Ahilan** - [LinkedIn](https://www.linkedin.com/in/sanchai-ahilan-j-k-812953222/)
-
-
 ## Prerequisites
 To run the Application, you'll have to have these installed
 #### JDK
@@ -27,7 +23,7 @@ Download and Install [Apache Derby](https://db.apache.org/derby/derby_downloads.
 
 ## Run this Application
 ### Download and unzip contents from GitHub repo
-Download the [Supermarket Billing System](https://github.com/SanchaiAhilan/Supermarket-Billing-system/archive/master.zip) and unzip
+Download the [Supermarket Billing System](https://github.com/rudrapratap63/Supermarket-Billing-system/archive/master.zip) and unzip
 
 ###  Launch the app
 To run the project from the command line, go to the dist folder and type the following
